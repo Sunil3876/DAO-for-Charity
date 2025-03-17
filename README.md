@@ -51,3 +51,4 @@ The vision for the "DAO for Charity" project is to create a community-governed c
 
 ---
 ## Contract Address
+0x1E2E7842c52Fe931DF305De1dA32D7652E2616f0
