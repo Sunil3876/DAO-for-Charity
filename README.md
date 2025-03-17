@@ -50,3 +50,4 @@ The vision for the "DAO for Charity" project is to create a community-governed c
 - **Fundraising and Donation**: Users can contribute directly to a charity’s cause, and all funds raised are securely held within the platform until the charity’s owners withdraw them according to community consensus.
 
 ---
+## Contract Address
